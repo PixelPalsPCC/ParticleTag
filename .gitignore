@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# Visual Studio Code settings
+.vs 
+
 # BlueJ files
 *.ctxt
 
