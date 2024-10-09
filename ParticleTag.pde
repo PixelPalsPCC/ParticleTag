@@ -1,3 +1,5 @@
+//export PATH=".:$PATH:~"
+
 //declare global variables
 Bubble[] bubbles;
 Bubble singleBubble;
